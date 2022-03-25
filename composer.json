@@ -1,0 +1,15 @@
+{
+    "name": "app/php-structure-basic",
+    "description": "Folder structure for PHP projects",
+    "autoload": {
+        "psr-4": {
+            "WebApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "your name here"
+        }
+    ],
+    "require": {}
+}
