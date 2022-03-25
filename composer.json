@@ -3,7 +3,7 @@
     "description": "Folder structure for PHP projects",
     "autoload": {
         "psr-4": {
-            "WebApp\\": "src/"
+            "WebApp\\": "src"
         }
     },
     "authors": [
@@ -11,5 +11,7 @@
             "name": "your name here"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
